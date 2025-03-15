@@ -1,0 +1,59 @@
+h1 {
+    text-align: center;
+    border: 5px solid black;
+    padding: 20px 20px 20px 20px;
+    background-color: greenyellow;
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.847);
+    font-family: 'Monospace', 'Monaco';
+    color: greenyellow;
+  }
+
+p {
+    width: 800px;
+    margin: 0 auto;
+}
+
+#main {
+    color: greenyellow;
+    width: 500px;
+}
+
+#navigationButton {
+    background-color: greenyellow; 
+    font-size: 16px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#navigationButton2 {
+    background-color: greenyellow; 
+    font-size: 16px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.more-page {
+    background-color: rgba(0, 0, 0, 0.898);
+    font-family: 'Monospace', 'Monaco';
+    color: greenyellow;
+}
+
+
+.more-page h3 {
+    text-align: center;
+    border: 5px solid black;
+    padding: 20px 20px 20px 20px;
+    background-color: greenyellow;
+}
+
+.more-bullet {
+    color: black;
+    border: 5px solid black;
+    padding: 20px 20px 20px 20px;
+    background-color: greenyellow;
+}
