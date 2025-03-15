@@ -28,6 +28,7 @@ p {
     padding: 5px 10px;
     border-radius: 5px;
     cursor: pointer;
+    text-align: center;
 }
 
 #navigationButton2 {
@@ -57,6 +58,7 @@ p {
     color: black;
     border: 5px solid black;
     padding: 20px 20px 20px 20px;
+    text-align: center;
     background-color: greenyellow;
     list-style-position: inside;
 }
